@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dr Deepak Kumar Panda"
+  pronouns         : # example: "He/Him"  
+  bio              : "Royal Academy of Engineering UKIC Research Fellow"
+  location         : "Cranfield, United Kingdom"
+  employer         : "Cranfield University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Deepak.Panda@cranfield.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dfY4ZvkAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
