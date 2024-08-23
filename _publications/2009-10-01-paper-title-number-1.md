@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Observer based decentralized load frequency control with false data injection attack for specified network quality and delay"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
