@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Deepak's Homepage"
+title                    : "Deepak Kumar Panda"
 title_separator          : "-"
 name                     : &name "Deepak Kumar Panda"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : deepak-kumar-panda-96210889
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : deepakdep
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
